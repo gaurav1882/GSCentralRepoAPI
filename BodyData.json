@@ -1,0 +1,14 @@
+{
+	"firstname": "Sprite_Sprite",
+	"lastname": " coldrink",
+	"id": "512343",
+	"designation": "QA+SDET+DEV",
+	"coursetype": " AWS+DEVOPS",
+	"AddressInformation":
+	{
+		"Ward no": "145",
+		"houseno": "551/234",
+		"street": "porwal_road",
+		"addresstype": "primaryAddress"
+	}
+}

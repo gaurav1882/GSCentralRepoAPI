@@ -1,0 +1,14 @@
+{
+	"firstname": "Limca_Limca",
+	"lastname": " hotdrink",
+	"id": "{{id}}",
+	"designation": "QA+SDET",
+	"coursetype": " AWS",
+	"AddressInformation":
+	{
+		"Ward no": "3423",
+		"houseno": "24234/434",
+		"street": "avenue road",
+		"addresstype": "primaryAddress"
+	}
+}
